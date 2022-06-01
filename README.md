@@ -1,2 +1,2 @@
-# django-repo
-New Django project
+## django-repo
+Nicholas Gikonyo Django project
